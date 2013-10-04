@@ -1,0 +1,999 @@
+{
+  "url": "http://newsworld.co.za/api/news/headlines/",
+  "method": "GET",
+  "status": "OK",
+  "body": {
+    "results": {
+      "articles": [
+        {
+          "image_url": "http://cdn.24.co.za/files/Cms/General/d/2546/7da8a6125a9846c5be503522cfe21f55.jpg",
+          "hash_key": "4a9c6885dbcb9fa5bace712dab08b6ec",
+          "date_iso": "2013-10-04T19:13:18",
+          "title": "SARS crime bust - 4 arrested",
+          "content": "Four people, including a government employee who allegedly posed as an SA Revenue Service official, have been arrested for allegedly abusing the tax system.",
+          "date": "2 hours, 10 minutes ago",
+          "score": null,
+          "link": "http://www.news24.com/SouthAfrica/News/SARS-crime-bust-4-arrested-20131004",
+          "source": "news24.com",
+          "keywords": [
+            "canada",
+            "official",
+            "sa revenue service",
+            "law_crime",
+            "labor",
+            "business_finance",
+            "health",
+            "health in toronto"
+          ],
+          "seen": [
+            "4e345ff617613cabff3c3b2fc35dd94c",
+            "97c1e1f48a54581f6f26d19692b40180",
+            "3bc89fdb85677dd6b53a81b3dee5409c",
+            "becde6ef21396b8c52dcc8a463e4d541",
+            "d8436b77838030b7d55520fca932c38c",
+            "78eb6745ae39d3b10f85980c7d9aa5b3",
+            "d93f1a7c80efe8ef2db4e4039e12df6a",
+            "26f3c62518a7590ec2d30225129d41c1",
+            "7d0af23477610cdbb8139fdcce6dd4a3",
+            "5d2179c5815928ef56aeaa5d0a80904a"
+          ],
+          "similar": [
+            {
+              "image_url": "",
+              "hash_key": "4e345ff617613cabff3c3b2fc35dd94c",
+              "date_iso": "2013-10-04T12:58:38",
+              "title": "Former NYDA boss arrested",
+              "content": "Lungisa was arrested with three other people. They were alleged to have shared the money among themselves.",
+              "date": "8 hours, 15 minutes ago",
+              "score": 0.5660377358490566,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108609&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "human interest",
+                "law_crime",
+                "lungisa"
+              ],
+              "seen": "4a9c6885dbcb9fa5bace712dab08b6ec",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "97c1e1f48a54581f6f26d19692b40180",
+              "date_iso": "2013-10-04T12:26:21",
+              "title": "Former NYDA chairman in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department arrived at a Johan",
+              "date": "8 hours, 48 minutes ago",
+              "score": 0.7058823529411765,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108607&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "head",
+                "andile ngcaba",
+                "julius malema",
+                "chairman",
+                "former national youth development agency",
+                "andile lungisa",
+                "northern sotho people"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/990/1d4405f7030e4e50ab1c009d049431bc.jpg",
+              "hash_key": "3bc89fdb85677dd6b53a81b3dee5409c",
+              "date_iso": "2013-10-04T11:08:28",
+              "title": "Former NYDA chair appears in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department have arrived at a Johannesburg court.",
+              "date": "10 hours, 5 minutes ago",
+              "score": 0.7138461538461538,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-chair-appears-in-court-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "head",
+                "geography of south africa",
+                "johannesburg",
+                "johannesburg court",
+                "former national youth development agency",
+                "andile lungisa",
+                "chair",
+                "geography of africa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.timeslive.co.za/Feeds/2013/10/04/988542_819783.jpg/ALTERNATES/crop_80x80/988542_819783.jpg",
+              "hash_key": "becde6ef21396b8c52dcc8a463e4d541",
+              "date_iso": "2013-10-04T10:44:46",
+              "title": "Former NYDA boss Andile Lungisa arrested for fraud",
+              "content": "Former National Youth Development Agency (NYDA) head Andile Lungisa has been arrested for fraud and money laundering, the Hawks said on Friday.",
+              "date": "10 hours, 29 minutes ago",
+              "score": 0.6555183946488294,
+              "link": "http://www.timeslive.co.za/local/2013/10/04/former-nyda-boss-andile-lungisa-arrested-for-fraud",
+              "source": "timeslive.co.za",
+              "keywords": [
+                "head",
+                "fraud",
+                "deception",
+                "human interest",
+                "crimes",
+                "law_crime",
+                "andile lungisa",
+                "former national youth development agency"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.sowetanlive.co.za/incoming/2012/08/03/624467_315109.jpg/ALTERNATES/Landscape80x70/624467_315109.jpg",
+              "hash_key": "d8436b77838030b7d55520fca932c38c",
+              "date_iso": "2013-10-04T09:45:17",
+              "title": "Former NYDA boss arrested",
+              "content": "Former NYDA head Andile Lungisa has been arrested for fraud and money laundering, the Hawks said.",
+              "date": "11 hours, 29 minutes ago",
+              "score": 0.5660377358490566,
+              "link": "http://www.sowetanlive.co.za/news/2013/10/04/former-nyda-boss-arrested",
+              "source": "sowetanlive.co.za",
+              "keywords": [
+                "fraud",
+                "deception",
+                "nyda head",
+                "crimes",
+                "law_crime",
+                "human interest",
+                "andile lungisa",
+                "entertainment_culture"
+              ],
+              "seen": "4a9c6885dbcb9fa5bace712dab08b6ec",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "78eb6745ae39d3b10f85980c7d9aa5b3",
+              "date_iso": "2013-10-04T09:41:00",
+              "title": "Lungisa arrested after making up R Kelly concert",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three mates banked an amount of R2.5-million after lying about a contract.",
+              "date": "11 hours, 33 minutes ago",
+              "score": 0.6983050847457627,
+              "link": "http://mg.co.za/article/2013-10-04-arrest-made-over-millions-lost-for-r-kelly-performance/",
+              "source": "mg.co.za",
+              "keywords": [
+                "andile lungisa",
+                "entertainment_culture",
+                "r. kelly",
+                "law_crime",
+                "national youth development agency head"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/2ac198af147f4e52b9d43debca961b5b.jpg",
+              "hash_key": "d93f1a7c80efe8ef2db4e4039e12df6a",
+              "date_iso": "2013-10-04T09:30:29",
+              "title": "Former rugby player jailed for fraud",
+              "content": "A rugby player for the former Northern-Transvaal rugby team, Paul Botes, has been sentenced in the Specialised Commercial Crimes Court in Pretoria to serve 10 years in jail for fraud.",
+              "date": "11 hours, 43 minutes ago",
+              "score": 0.5813953488372093,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-rugby-player-jailed-for-fraud-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "rugby player",
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "sports",
+                "player",
+                "specialised commercial crimes court in pretoria",
+                "paul botes",
+                "specialised commercial crimes court"
+              ],
+              "seen": "becde6ef21396b8c52dcc8a463e4d541",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/d26f7414c6c04a259484fe9ddb210955.jpg",
+              "hash_key": "26f3c62518a7590ec2d30225129d41c1",
+              "date_iso": "2013-10-04T09:01:19",
+              "title": "Former NYDA head Andile Lungisa arrested",
+              "content": "Former National Youth Development Agency chairperson Andile Lungisa has been arrested for fraud and money laundering, according to the Hawks.",
+              "date": "12 hours, 13 minutes ago",
+              "score": 0.6195286195286195,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-head-Andile-Lungisa-arrested-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "chairperson",
+                "deception",
+                "nyda head",
+                "crimes",
+                "law_crime",
+                "former national youth development agency",
+                "law",
+                "andile lungisa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "5d2179c5815928ef56aeaa5d0a80904a",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chairman arrested",
+              "content": "Andile Lungisa and 3 others have been arrested on fraud and money laundering charges.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.7636363636363637,
+              "link": "http://ewn.co.za/2013/10/04/Andile-Lungisa-arrested",
+              "source": "ewn.co.za",
+              "keywords": [
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "chairman",
+                "andile lungisa",
+                "entertainment_culture"
+              ],
+              "seen": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chair in court",
+              "content": "Andile Lungisa and three others are accused of defrauding the Department of Arts and Culture.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.5769230769230769,
+              "link": "http://ewn.co.za/2013/10/04/NYDA-Chairman-to-appear-in-court",
+              "source": "ewn.co.za",
+              "keywords": [
+                "julius malema",
+                "chair",
+                "court andile lungisa",
+                "northern sotho people",
+                "department of arts and culture"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            }
+          ]
+        },
+        {
+          "image_url": "",
+          "hash_key": "a2406f291ef51a79036548eaaa306f06",
+          "date_iso": "2013-10-04T19:03:24",
+          "title": "Lungisa's arrest welcomed",
+          "content": "Arts and Culture Minister Paul Mashatile welcomed the arrest of former National Youth Development Agency (NYDA) head Andile Lungisa and three other pe",
+          "date": "2 hours, 20 minutes ago",
+          "score": null,
+          "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108637&cat_id=1007",
+          "source": "thenewage.co.za",
+          "keywords": [
+            "paul mashatile",
+            "head",
+            "culture minister",
+            "national youth development agency",
+            "andile lungisa"
+          ],
+          "seen": [
+            "817c647adb40f8e39b84ecc008461d67",
+            "97c1e1f48a54581f6f26d19692b40180",
+            "3bc89fdb85677dd6b53a81b3dee5409c",
+            "becde6ef21396b8c52dcc8a463e4d541",
+            "78eb6745ae39d3b10f85980c7d9aa5b3",
+            "d93f1a7c80efe8ef2db4e4039e12df6a",
+            "26f3c62518a7590ec2d30225129d41c1",
+            "c1ffbce72d21f824e2115c578715188f",
+            "7d0af23477610cdbb8139fdcce6dd4a3",
+            "5d2179c5815928ef56aeaa5d0a80904a"
+          ],
+          "similar": [
+            {
+              "image_url": "",
+              "hash_key": "817c647adb40f8e39b84ecc008461d67",
+              "date_iso": "2013-10-04T14:25:00",
+              "title": "Former NYDA head Lungisa out on R10k bail",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others have been granted bail.",
+              "date": "6 hours, 49 minutes ago",
+              "score": 0.6135458167330677,
+              "link": "http://mg.co.za/article/2013-10-04-lungisa-out-on-r10-000-bail/",
+              "source": "mg.co.za",
+              "keywords": [
+                "criminal law",
+                "nyda head",
+                "julius malema",
+                "law_crime",
+                "national youth development agency head",
+                "andile lungisa",
+                "bail"
+              ],
+              "seen": "a2406f291ef51a79036548eaaa306f06",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "97c1e1f48a54581f6f26d19692b40180",
+              "date_iso": "2013-10-04T12:26:21",
+              "title": "Former NYDA chairman in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department arrived at a Johan",
+              "date": "8 hours, 48 minutes ago",
+              "score": 0.7058823529411765,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108607&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "head",
+                "andile ngcaba",
+                "julius malema",
+                "chairman",
+                "former national youth development agency",
+                "andile lungisa",
+                "northern sotho people"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/990/1d4405f7030e4e50ab1c009d049431bc.jpg",
+              "hash_key": "3bc89fdb85677dd6b53a81b3dee5409c",
+              "date_iso": "2013-10-04T11:08:28",
+              "title": "Former NYDA chair appears in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department have arrived at a Johannesburg court.",
+              "date": "10 hours, 5 minutes ago",
+              "score": 0.7138461538461538,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-chair-appears-in-court-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "head",
+                "geography of south africa",
+                "johannesburg",
+                "johannesburg court",
+                "former national youth development agency",
+                "andile lungisa",
+                "chair",
+                "geography of africa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.timeslive.co.za/Feeds/2013/10/04/988542_819783.jpg/ALTERNATES/crop_80x80/988542_819783.jpg",
+              "hash_key": "becde6ef21396b8c52dcc8a463e4d541",
+              "date_iso": "2013-10-04T10:44:46",
+              "title": "Former NYDA boss Andile Lungisa arrested for fraud",
+              "content": "Former National Youth Development Agency (NYDA) head Andile Lungisa has been arrested for fraud and money laundering, the Hawks said on Friday.",
+              "date": "10 hours, 29 minutes ago",
+              "score": 0.6555183946488294,
+              "link": "http://www.timeslive.co.za/local/2013/10/04/former-nyda-boss-andile-lungisa-arrested-for-fraud",
+              "source": "timeslive.co.za",
+              "keywords": [
+                "head",
+                "fraud",
+                "deception",
+                "human interest",
+                "crimes",
+                "law_crime",
+                "andile lungisa",
+                "former national youth development agency"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "78eb6745ae39d3b10f85980c7d9aa5b3",
+              "date_iso": "2013-10-04T09:41:00",
+              "title": "Lungisa arrested after making up R Kelly concert",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three mates banked an amount of R2.5-million after lying about a contract.",
+              "date": "11 hours, 33 minutes ago",
+              "score": 0.6983050847457627,
+              "link": "http://mg.co.za/article/2013-10-04-arrest-made-over-millions-lost-for-r-kelly-performance/",
+              "source": "mg.co.za",
+              "keywords": [
+                "andile lungisa",
+                "entertainment_culture",
+                "r. kelly",
+                "law_crime",
+                "national youth development agency head"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/2ac198af147f4e52b9d43debca961b5b.jpg",
+              "hash_key": "d93f1a7c80efe8ef2db4e4039e12df6a",
+              "date_iso": "2013-10-04T09:30:29",
+              "title": "Former rugby player jailed for fraud",
+              "content": "A rugby player for the former Northern-Transvaal rugby team, Paul Botes, has been sentenced in the Specialised Commercial Crimes Court in Pretoria to serve 10 years in jail for fraud.",
+              "date": "11 hours, 43 minutes ago",
+              "score": 0.5813953488372093,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-rugby-player-jailed-for-fraud-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "rugby player",
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "sports",
+                "player",
+                "specialised commercial crimes court in pretoria",
+                "paul botes",
+                "specialised commercial crimes court"
+              ],
+              "seen": "becde6ef21396b8c52dcc8a463e4d541",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/d26f7414c6c04a259484fe9ddb210955.jpg",
+              "hash_key": "26f3c62518a7590ec2d30225129d41c1",
+              "date_iso": "2013-10-04T09:01:19",
+              "title": "Former NYDA head Andile Lungisa arrested",
+              "content": "Former National Youth Development Agency chairperson Andile Lungisa has been arrested for fraud and money laundering, according to the Hawks.",
+              "date": "12 hours, 13 minutes ago",
+              "score": 0.6195286195286195,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-head-Andile-Lungisa-arrested-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "chairperson",
+                "deception",
+                "nyda head",
+                "crimes",
+                "law_crime",
+                "former national youth development agency",
+                "law",
+                "andile lungisa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "5d2179c5815928ef56aeaa5d0a80904a",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chairman arrested",
+              "content": "Andile Lungisa and 3 others have been arrested on fraud and money laundering charges.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.7636363636363637,
+              "link": "http://ewn.co.za/2013/10/04/Andile-Lungisa-arrested",
+              "source": "ewn.co.za",
+              "keywords": [
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "chairman",
+                "andile lungisa",
+                "entertainment_culture"
+              ],
+              "seen": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chair in court",
+              "content": "Andile Lungisa and three others are accused of defrauding the Department of Arts and Culture.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.5769230769230769,
+              "link": "http://ewn.co.za/2013/10/04/NYDA-Chairman-to-appear-in-court",
+              "source": "ewn.co.za",
+              "keywords": [
+                "julius malema",
+                "chair",
+                "court andile lungisa",
+                "northern sotho people",
+                "department of arts and culture"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "c1ffbce72d21f824e2115c578715188f",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "NYDA boss gets R10k bail",
+              "content": "Lungisa, his wife and two friends are accused of pocketing R2.5 million from the Arts & Culture Dept.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.5538461538461539,
+              "link": "http://ewn.co.za/2013/10/04/NYDA-boss-granted-R10k-bail",
+              "source": "ewn.co.za",
+              "keywords": [
+                "entertainment_culture",
+                "human interest",
+                "canadian criminal law",
+                "bail",
+                "lungisa"
+              ],
+              "seen": "817c647adb40f8e39b84ecc008461d67",
+              "similar": []
+            }
+          ]
+        },
+        {
+          "image_url": "http://cdn.24.co.za/files/Cms/General/d/2546/fc60f7d83db841088f8d7a63dc43e757.jpg",
+          "hash_key": "6094e977897d73c2772ec41065a7004c",
+          "date_iso": "2013-10-04T17:24:32",
+          "title": "Bail for formey NYDA chair",
+          "content": "Former National Youth Development Agency head Andile Lungisa and three others have been granted bail in the Johannesburg Specialised Commercial Crime Court.",
+          "date": "3 hours, 59 minutes ago",
+          "score": null,
+          "link": "http://www.news24.com/SouthAfrica/News/Bail-for-formey-NYDA-chair-20131004",
+          "source": "news24.com",
+          "keywords": [
+            "criminal law",
+            "johannesburg specialised commercial crime court",
+            "formey nyda chair",
+            "law_crime",
+            "johannesburg",
+            "national youth development agency head",
+            "andile lungisa",
+            "bail"
+          ],
+          "seen": [
+            "9a6834cf236a5a9420b989e2d9e09aa4",
+            "8bbbd66afab92d4b087c2c8c77dd76bd",
+            "97c1e1f48a54581f6f26d19692b40180",
+            "3bc89fdb85677dd6b53a81b3dee5409c",
+            "becde6ef21396b8c52dcc8a463e4d541",
+            "78eb6745ae39d3b10f85980c7d9aa5b3",
+            "d93f1a7c80efe8ef2db4e4039e12df6a",
+            "26f3c62518a7590ec2d30225129d41c1",
+            "7d0af23477610cdbb8139fdcce6dd4a3",
+            "5d2179c5815928ef56aeaa5d0a80904a"
+          ],
+          "similar": [
+            {
+              "image_url": "",
+              "hash_key": "9a6834cf236a5a9420b989e2d9e09aa4",
+              "date_iso": "2013-10-04T16:11:27",
+              "title": "Bail for former NYDA chair",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others were granted bail in the Johannesburg Specialised Commercial Crime Court",
+              "date": "5 hours, 2 minutes ago",
+              "score": 0.9673202614379085,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108628&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "criminal law",
+                "johannesburg specialised commercial crime court",
+                "nyda chair former national youth development agency head",
+                "law_crime",
+                "johannesburg",
+                "chair",
+                "bail",
+                "andile lungisa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.timeslive.co.za/migration_catalog/2010/12/21/andile-lungisa/ALTERNATES/crop_80x80/Andile+Lungisa",
+              "hash_key": "8bbbd66afab92d4b087c2c8c77dd76bd",
+              "date_iso": "2013-10-04T16:11:00",
+              "title": "R10 000 bail for former NYDA boss",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others were granted bail in the Johannesburg Specialised Commercial Crime Court on Friday.",
+              "date": "5 hours, 3 minutes ago",
+              "score": 0.9400630914826499,
+              "link": "http://www.timeslive.co.za/local/2013/10/04/r10-000-bail-for-former-nyda-boss",
+              "source": "timeslive.co.za",
+              "keywords": [
+                "social issues",
+                "criminal law",
+                "johannesburg specialised commercial crime court",
+                "johannesburg",
+                "law_crime",
+                "nyda boss former national youth development agency head",
+                "andile lungisa",
+                "bail"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "97c1e1f48a54581f6f26d19692b40180",
+              "date_iso": "2013-10-04T12:26:21",
+              "title": "Former NYDA chairman in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department arrived at a Johan",
+              "date": "8 hours, 48 minutes ago",
+              "score": 0.7058823529411765,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108607&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "head",
+                "andile ngcaba",
+                "julius malema",
+                "chairman",
+                "former national youth development agency",
+                "andile lungisa",
+                "northern sotho people"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/990/1d4405f7030e4e50ab1c009d049431bc.jpg",
+              "hash_key": "3bc89fdb85677dd6b53a81b3dee5409c",
+              "date_iso": "2013-10-04T11:08:28",
+              "title": "Former NYDA chair appears in court",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three others accused of defrauding the arts and culture department have arrived at a Johannesburg court.",
+              "date": "10 hours, 5 minutes ago",
+              "score": 0.7138461538461538,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-chair-appears-in-court-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "head",
+                "geography of south africa",
+                "johannesburg",
+                "johannesburg court",
+                "former national youth development agency",
+                "andile lungisa",
+                "chair",
+                "geography of africa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.timeslive.co.za/Feeds/2013/10/04/988542_819783.jpg/ALTERNATES/crop_80x80/988542_819783.jpg",
+              "hash_key": "becde6ef21396b8c52dcc8a463e4d541",
+              "date_iso": "2013-10-04T10:44:46",
+              "title": "Former NYDA boss Andile Lungisa arrested for fraud",
+              "content": "Former National Youth Development Agency (NYDA) head Andile Lungisa has been arrested for fraud and money laundering, the Hawks said on Friday.",
+              "date": "10 hours, 29 minutes ago",
+              "score": 0.6555183946488294,
+              "link": "http://www.timeslive.co.za/local/2013/10/04/former-nyda-boss-andile-lungisa-arrested-for-fraud",
+              "source": "timeslive.co.za",
+              "keywords": [
+                "head",
+                "fraud",
+                "deception",
+                "human interest",
+                "crimes",
+                "law_crime",
+                "andile lungisa",
+                "former national youth development agency"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "78eb6745ae39d3b10f85980c7d9aa5b3",
+              "date_iso": "2013-10-04T09:41:00",
+              "title": "Lungisa arrested after making up R Kelly concert",
+              "content": "Former National Youth Development Agency head Andile Lungisa and three mates banked an amount of R2.5-million after lying about a contract.",
+              "date": "11 hours, 33 minutes ago",
+              "score": 0.6983050847457627,
+              "link": "http://mg.co.za/article/2013-10-04-arrest-made-over-millions-lost-for-r-kelly-performance/",
+              "source": "mg.co.za",
+              "keywords": [
+                "andile lungisa",
+                "entertainment_culture",
+                "r. kelly",
+                "law_crime",
+                "national youth development agency head"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/2ac198af147f4e52b9d43debca961b5b.jpg",
+              "hash_key": "d93f1a7c80efe8ef2db4e4039e12df6a",
+              "date_iso": "2013-10-04T09:30:29",
+              "title": "Former rugby player jailed for fraud",
+              "content": "A rugby player for the former Northern-Transvaal rugby team, Paul Botes, has been sentenced in the Specialised Commercial Crimes Court in Pretoria to serve 10 years in jail for fraud.",
+              "date": "11 hours, 43 minutes ago",
+              "score": 0.5813953488372093,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-rugby-player-jailed-for-fraud-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "rugby player",
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "sports",
+                "player",
+                "specialised commercial crimes court in pretoria",
+                "paul botes",
+                "specialised commercial crimes court"
+              ],
+              "seen": "becde6ef21396b8c52dcc8a463e4d541",
+              "similar": []
+            },
+            {
+              "image_url": "http://cdn.24.co.za/files/Cms/General/d/2545/d26f7414c6c04a259484fe9ddb210955.jpg",
+              "hash_key": "26f3c62518a7590ec2d30225129d41c1",
+              "date_iso": "2013-10-04T09:01:19",
+              "title": "Former NYDA head Andile Lungisa arrested",
+              "content": "Former National Youth Development Agency chairperson Andile Lungisa has been arrested for fraud and money laundering, according to the Hawks.",
+              "date": "12 hours, 13 minutes ago",
+              "score": 0.6195286195286195,
+              "link": "http://www.news24.com/SouthAfrica/News/Former-NYDA-head-Andile-Lungisa-arrested-20131004",
+              "source": "news24.com",
+              "keywords": [
+                "chairperson",
+                "deception",
+                "nyda head",
+                "crimes",
+                "law_crime",
+                "former national youth development agency",
+                "law",
+                "andile lungisa"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "5d2179c5815928ef56aeaa5d0a80904a",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chairman arrested",
+              "content": "Andile Lungisa and 3 others have been arrested on fraud and money laundering charges.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.7636363636363637,
+              "link": "http://ewn.co.za/2013/10/04/Andile-Lungisa-arrested",
+              "source": "ewn.co.za",
+              "keywords": [
+                "fraud",
+                "deception",
+                "crimes",
+                "law_crime",
+                "chairman",
+                "andile lungisa",
+                "entertainment_culture"
+              ],
+              "seen": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "7d0af23477610cdbb8139fdcce6dd4a3",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Former NYDA chair in court",
+              "content": "Andile Lungisa and three others are accused of defrauding the Department of Arts and Culture.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.5769230769230769,
+              "link": "http://ewn.co.za/2013/10/04/NYDA-Chairman-to-appear-in-court",
+              "source": "ewn.co.za",
+              "keywords": [
+                "julius malema",
+                "chair",
+                "court andile lungisa",
+                "northern sotho people",
+                "department of arts and culture"
+              ],
+              "seen": "6094e977897d73c2772ec41065a7004c",
+              "similar": []
+            }
+          ]
+        },
+        {
+          "image_url": "http://cdn.24.co.za/files/Cms/General/d/2546/09c309472e864994904d2b8aa20f2864.jpg",
+          "hash_key": "e7fb678ff28724e9c1cd4ee6561fc297",
+          "date_iso": "2013-10-04T15:26:32",
+          "title": "Zuma: Happy grandparents day",
+          "content": "President Jacob Zuma has wished all South African grandparents a happy grandparents day.",
+          "date": "5 hours, 57 minutes ago",
+          "score": null,
+          "link": "http://www.news24.com/SouthAfrica/News/Zuma-Happy-grandparents-day-20131004",
+          "source": "news24.com",
+          "keywords": [
+            "zulu people",
+            "president",
+            "jacob zuma",
+            "south africa"
+          ],
+          "seen": [
+            "e21a03ba4d76707896c2bf7ab05c8537",
+            "8783e21ec53d2056f27d1c389f2bedf2",
+            "fe4506009f3299229812053c7b8f8559",
+            "6a0b1818a8b9d6f1134e55b556fb66a4"
+          ],
+          "similar": [
+            {
+              "image_url": "",
+              "hash_key": "e21a03ba4d76707896c2bf7ab05c8537",
+              "date_iso": "2013-10-04T15:00:33",
+              "title": "Zuma wishes grandparents a happy day",
+              "content": "President Jacob Zuma on Friday wished all South African grandparents a happy grandparents day.",
+              "date": "6 hours, 13 minutes ago",
+              "score": 0.945054945054945,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108623&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "zulu people",
+                "president",
+                "jacob zuma",
+                "south africa"
+              ],
+              "seen": "e7fb678ff28724e9c1cd4ee6561fc297",
+              "similar": []
+            },
+            {
+              "image_url": "http://www.timeslive.co.za/Feeds/Reuters_Images/2013/09/29/una518_rtridsp_3_un-assembly.jpg/ALTERNATES/crop_80x80/UNA518_RTRIDSP_3_UN-ASSEMBLY.jpg",
+              "hash_key": "8783e21ec53d2056f27d1c389f2bedf2",
+              "date_iso": "2013-10-04T12:33:39",
+              "title": "Need to work toward race no longer being the issue, says Zuma",
+              "content": "President Jacob Zuma hinted at a sunset clause for empowerment yesterday.",
+              "date": "8 hours, 40 minutes ago",
+              "score": 0.5962732919254659,
+              "link": "http://www.timeslive.co.za/politics/2013/10/04/need-to-work-toward-race-no-longer-being-the-issue-says-zuma",
+              "source": "timeslive.co.za",
+              "keywords": [
+                "zulu people",
+                "president",
+                "jacob zuma",
+                "south africa"
+              ],
+              "seen": "e7fb678ff28724e9c1cd4ee6561fc297",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "fe4506009f3299229812053c7b8f8559",
+              "date_iso": "2013-10-03T18:35:36",
+              "title": "Zuma appoints new SABC chair",
+              "content": "President Jacob Zuma appointed a new SABC chairwoman and a deputy on Thursday, the presidency said.",
+              "date": "1 day, 2 hours ago",
+              "score": 0.5668449197860963,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108578&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "sabc chair president",
+                "south africa",
+                "zulu people",
+                "jacob zuma",
+                "chairwoman",
+                "president",
+                "chair",
+                "sabc chairwoman",
+                "politics of south africa"
+              ],
+              "seen": "e7fb678ff28724e9c1cd4ee6561fc297",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "6a0b1818a8b9d6f1134e55b556fb66a4",
+              "date_iso": "2013-10-03T16:33:00",
+              "title": "Zuma appoints Tshabalala as new SABC chair",
+              "content": "President Jacob Zuma has appointed a new SABC chairperson and a deputy.",
+              "date": "1 day, 4 hours ago",
+              "score": 0.6163522012578616,
+              "link": "http://mg.co.za/article/2013-10-03-zuma-appoints-tshabalala-as-new-sabc-chair/",
+              "source": "mg.co.za",
+              "keywords": [
+                "chairperson",
+                "sabc chair president",
+                "government",
+                "south africa",
+                "zulu people",
+                "jacob zuma",
+                "president",
+                "chair",
+                "sabc chairperson"
+              ],
+              "seen": "e7fb678ff28724e9c1cd4ee6561fc297",
+              "similar": []
+            }
+          ]
+        },
+        {
+          "image_url": "http://cdn.24.co.za/files/Cms/General/d/2510/6e8a0fad0b2d41f28f6da4a4344080d2.jpg",
+          "hash_key": "bfe370d20e0f9ef00e8e1523a359e3a3",
+          "date_iso": "2013-10-04T07:00:08",
+          "title": "Another stabbing at Free State prison",
+          "content": "There have been stabbings at the Mangaung prison every day this week, a security company at the privately-run prison says.",
+          "date": "14 hours, 24 minutes ago",
+          "score": null,
+          "link": "http://www.news24.com/SouthAfrica/News/Another-stabbing-at-Free-State-prison-20131003",
+          "source": "news24.com",
+          "keywords": [
+            "bloemfontein",
+            "prison break: the final break",
+            "law_crime",
+            "free state prison there",
+            "mangaung prison",
+            "geography of africa"
+          ],
+          "seen": [
+            "30e3d28f6b3b6dc46726ca534a502ef0",
+            "301ac9155dc99986b23ff179509fe1c9",
+            "25d5b328a414508334fd7a9c486f64ea",
+            "5e7d7d7f1bcb5ecd39057c7bd7b41aca"
+          ],
+          "similar": [
+            {
+              "image_url": "http://www.sowetanlive.co.za/incoming/2012/12/14/stab-ih-back.jpg/ALTERNATES/Landscape80x70/stab-ih-back.jpg",
+              "hash_key": "30e3d28f6b3b6dc46726ca534a502ef0",
+              "date_iso": "2013-10-04T06:18:41",
+              "title": "Stabbings continue at Mangaung prison",
+              "content": "There had been stabbings at the prison every day this week, said G4S Africa head Andy Baker, but he could not say how many.",
+              "date": "14 hours, 55 minutes ago",
+              "score": 0.6775510204081633,
+              "link": "http://www.sowetanlive.co.za/news/2013/10/04/stabbings-continue-at-mangaung-prison",
+              "source": "sowetanlive.co.za",
+              "keywords": [
+                "mangaung prison there",
+                "bloemfontein",
+                "head",
+                "law_crime",
+                "g4s africa",
+                "g4s",
+                "andy baker",
+                "geography of africa"
+              ],
+              "seen": "bfe370d20e0f9ef00e8e1523a359e3a3",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "25d5b328a414508334fd7a9c486f64ea",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Warden stabbed at Mangaung prison",
+              "content": "A warden was stabbed just one day after a woman was held hostage at the prison.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.7164179104477612,
+              "link": "http://ewn.co.za/2013/10/04/Warden-stabbed-at-Mangaung-prison",
+              "source": "ewn.co.za",
+              "keywords": [
+                "bloemfontein",
+                "law_crime",
+                "warden",
+                "the task",
+                "politics",
+                "geography of africa"
+              ],
+              "seen": "301ac9155dc99986b23ff179509fe1c9",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "301ac9155dc99986b23ff179509fe1c9",
+              "date_iso": "2013-10-04T00:00:00",
+              "title": "Security beefed at Mangaung prison",
+              "content": "Security has been beefed up at the prison following a hostage drama.",
+              "date": "21 hours, 14 minutes ago",
+              "score": 0.647887323943662,
+              "link": "http://ewn.co.za/2013/10/04/Security-stepped-up-at-Mangaung",
+              "source": "ewn.co.za",
+              "keywords": [
+                "mangaung prison security",
+                "war_conflict",
+                "law_crime",
+                "labor"
+              ],
+              "seen": "30e3d28f6b3b6dc46726ca534a502ef0",
+              "similar": []
+            },
+            {
+              "image_url": "",
+              "hash_key": "5e7d7d7f1bcb5ecd39057c7bd7b41aca",
+              "date_iso": "2013-10-03T20:29:25",
+              "title": "Stabbing continue in Mangaung prison",
+              "content": "Another prison guard was stabbed at the Mangaung prison in Bloemfontein on Thursday, G4S Security said.",
+              "date": "1 day ago",
+              "score": 0.6376811594202898,
+              "link": "http://www.thenewage.co.za/Detail.aspx?news_id=108583&cat_id=1007",
+              "source": "thenewage.co.za",
+              "keywords": [
+                "bloemfontein",
+                "prison guard",
+                "law_crime",
+                "g4s",
+                "mangaung prison",
+                "geography of africa"
+              ],
+              "seen": "25d5b328a414508334fd7a9c486f64ea",
+              "similar": []
+            }
+          ]
+        }
+      ],
+      "cat": 1
+    }
+  }
+}

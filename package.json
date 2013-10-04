@@ -1,7 +1,7 @@
 {
-  "name": "vumi-go-skeleton",
+  "name": "newsworld-vumi",
   "version": "0.0.1",
-  "description": "A Vumi Go skeleton application.",
+  "description": "A Vumi Go application to read news.",
   "main": "index.js",
   "directories": {
     "test": "test"
@@ -18,14 +18,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/westerncapelabs/vumi-go-skeleton"
+    "url": "git://github.com/miltontony/newsworld-vumi"
   },
   "keywords": [
     "vumi",
     "ussd",
-    "sms"
+    "sms",
+    "news",
+    "newsworld"
   ],
-  "author": "Mike Jones <mike@westerncapelabs.com>",
+  "author": "Milton Madanda <milton@praekeltfoundation.org>",
   "license": "BSD",
   "readmeFilename": "README"
 }

@@ -3,253 +3,251 @@
   "method": "GET",
   "status": "OK",
   "body": {
-    "results": {
-      "articles": [
-        {
-          "image_url": "",
-          "hash_key": "3ed47e2ec2b5e3de5e4a9a5bca579197",
-          "date_iso": "2013-10-04T07:11:29",
-          "title": "Israel PM to Iran: Stop nuclear work",
-          "content": "Prime Minister of Israel Benjamin Netanyahu talks to CNN's Piers Morgan about President Hassan Ruhani of Iran.",
-          "date": "14 hours, 16 minutes ago",
-          "score": null,
-          "link": "http://edition.cnn.com/video/data/2.0/video/bestoftv/2013/10/03/exp-pmt-benjamin-netanyahu-rouhani.cnn.html?eref=edition",
-          "source": "cnn.com",
-          "keywords": [
-            "piers morgan",
-            "iran",
-            "israeli jews",
-            "prime minister",
-            "hassan ruhani",
-            "nuclear work prime minister of israel benjamin netanyahu talks",
-            "islamic republic of iran",
-            "politics",
-            "cnn",
-            "president",
-            "ashkenazi jews",
-            "benjamin netanyahu"
-          ],
-          "seen": [
-            "264e17d8722b15a6ca0d38d617fa1c41"
-          ],
-          "similar": [
-            {
-              "image_url": "",
-              "hash_key": "264e17d8722b15a6ca0d38d617fa1c41",
-              "date_iso": "2013-09-13T14:47:48",
-              "title": "Iran seeks solution to nuclear standoff",
-              "content": "President Rouhani asks for international assurances before compromising on country's nuclear programme.",
-              "date": "3 weeks ago",
-              "score": 0.56,
-              "link": "http://www.aljazeera.com/news/middleeast/2013/09/201391314248171928.html",
-              "source": "aljazeera.com",
-              "keywords": [
-                "iran",
-                "nuclear program of iran",
-                "rouhani",
-                "environment",
-                "nuclear proliferation",
-                "politics",
-                "president",
-                "international relations"
-              ],
-              "seen": "3ed47e2ec2b5e3de5e4a9a5bca579197",
-              "similar": []
-            }
-          ]
-        },
-        {
-          "image_url": "",
-          "hash_key": "3d2d39af540ca522b8e560216140c683",
-          "date_iso": "2013-10-04T02:22:25",
-          "title": "U.S. shuts down; insults shoot up",
-          "content": "We call out the top name-callers in the government shutdown. CNN's Jeanne Moos asks \"Who are you calling Honey Boo Boo?\"",
-          "date": "19 hours, 5 minutes ago",
-          "score": null,
-          "link": "http://edition.cnn.com/video/data/2.0/video/us/2013/10/03/tsr-moos-shutdown-name-calling.cnn.html?eref=edition",
-          "source": "cnn.com",
-          "keywords": [
-            "united states",
-            "yogi bear",
-            "honey boo boo",
-            "jeanne moos",
-            "boo",
-            "cnn",
-            "politics",
-            "news media"
-          ],
-          "seen": [
-            "5ae55f7ccf989dad7477a3204c60eee8"
-          ],
-          "similar": [
-            {
-              "image_url": "",
-              "hash_key": "5ae55f7ccf989dad7477a3204c60eee8",
-              "date_iso": "2013-10-03T06:53:33",
-              "title": "U.S. shutdown: Victory for extremism",
-              "content": "Ellen Fitzpatrick and Theda Skocpol say the government shutdown is an unprecedented move by a political minority trying to dismantle one of the most significant legislative achievements in recent American history, one that is the law.",
-              "date": "1 day, 14 hours ago",
-              "score": 0.5507246376811594,
-              "link": "http://edition.cnn.com/2013/10/02/opinion/fitzpatrick-skocpol-shutdown-extremism/index.html?eref=edition",
-              "source": "cnn.com",
-              "keywords": [
-                "ellen fitzpatrick",
-                "united states",
-                "social issues",
-                "education in the united states",
-                "government shutdown",
-                "theda skocpol",
-                "politics"
-              ],
-              "seen": "3d2d39af540ca522b8e560216140c683",
-              "similar": []
-            }
-          ]
-        },
-        {
-          "image_url": "",
-          "hash_key": "dd2e1d3e381d1ec376d6757c333f68dd",
-          "date_iso": "2013-09-13T14:26:44",
-          "title": "'Largest storm that I can imagine' wears on in Colo.; National Guard to rescue",
-          "content": "The governor of Colorado on Friday ordered the National Guard into a town outside Boulder in hopes of evacuating hundreds of people feared stranded by floods that were ravaging the state for a third day.",
-          "date": "3 weeks ago",
-          "score": null,
-          "link": "http://feeds.nbcnews.com/c/35002/f/663306/s/3131401c/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4694490Elargest0Estorm0Ethat0Ei0Ecan0Eimagine0Ewears0Eon0Ein0Ecolo0Enational0Eguard0Eto0Erescue0Dlite/story01.htm",
-          "source": "nbcnews.com",
-          "keywords": [
-            "colorado",
-            "national guard",
-            "united states air national guard",
-            "governor",
-            "national guard of the united states",
-            "environment",
-            "disaster_accident",
-            "weather",
-            "united states army national guard"
-          ],
-          "seen": [
-            "dd2e1d3e381d1ec376d6757c333f68dd"
-          ],
-          "similar": [
-            {
-              "image_url": "",
-              "hash_key": "dd2e1d3e381d1ec376d6757c333f68dd",
-              "date_iso": "2013-09-13T14:23:34",
-              "title": "'Largest storm that I can imagine' wears on in Colo.; National Guard to rescue",
-              "content": "The governor of Colorado on Friday ordered the National Guard into a town outside Boulder in hopes of evacuating hundreds of people feared stranded by floods that were ravaging the state for a third day.",
-              "date": "3 weeks ago",
-              "score": 1.0,
-              "link": "http://feeds.nbcnews.com/c/35002/f/663303/s/3131a970/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4694490Elargest0Estorm0Ethat0Ei0Ecan0Eimagine0Ewears0Eon0Ein0Ecolo0Enational0Eguard0Eto0Erescue0Dlite/story01.htm",
-              "source": "nbcnews.com",
-              "keywords": [
-                "colorado",
-                "national guard",
-                "united states air national guard",
-                "governor",
-                "national guard of the united states",
-                "environment",
-                "disaster_accident",
-                "weather",
-                "united states army national guard"
-              ],
-              "seen": "dd2e1d3e381d1ec376d6757c333f68dd",
-              "similar": []
-            }
-          ]
-        },
-        {
-          "image_url": "",
-          "hash_key": "6061411a0592fe44d9c3d994c12865b0",
-          "date_iso": "2013-09-13T13:53:57",
-          "title": "'The perfect storm': Massive boardwalk fire smolders in Sandy-ravaged shoretowns",
-          "content": "The raging boardwalk fire that turned six blocks of New Jersey shoreline attractions into embers on Thursday evening still smoldered the next morning, and authorities began to look for a cause for the blaze that dealt a heavy blow to an area just beginning to recover from Hurricane Sandy.",
-          "date": "3 weeks ago",
-          "score": null,
-          "link": "http://feeds.nbcnews.com/c/35002/f/663303/s/31310621/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4758760Ethe0Eperfect0Estorm0Emassive0Eboardwalk0Efire0Esmolders0Ein0Esandy0Eravaged0Eshoretowns0Dlite/story01.htm",
-          "source": "nbcnews.com",
-          "keywords": [
-            "new jersey",
-            "disaster_accident",
-            "geography of new jersey",
-            "weather",
-            "the perfect storm",
-            "transport"
-          ],
-          "seen": [
-            "6061411a0592fe44d9c3d994c12865b0"
-          ],
-          "similar": [
-            {
-              "image_url": "",
-              "hash_key": "6061411a0592fe44d9c3d994c12865b0",
-              "date_iso": "2013-09-13T13:39:12",
-              "title": "'The perfect storm': Massive boardwalk fire smolders in Sandy-ravaged shoretowns",
-              "content": "The raging boardwalk fire that turned six blocks of New Jersey shoreline attractions into embers on Thursday evening still smoldered the next morning, and authorities began to look for a cause for the blaze that dealt a heavy blow to an area just beginning to recover from Hurricane Sandy.",
-              "date": "3 weeks ago",
-              "score": 1.0,
-              "link": "http://feeds.nbcnews.com/c/35002/f/663306/s/313112c5/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4758760Ethe0Eperfect0Estorm0Emassive0Eboardwalk0Efire0Esmolders0Ein0Esandy0Eravaged0Eshoretowns0Dlite/story01.htm",
-              "source": "nbcnews.com",
-              "keywords": [
-                "new jersey",
-                "disaster_accident",
-                "geography of new jersey",
-                "weather",
-                "the perfect storm",
-                "transport"
-              ],
-              "seen": "6061411a0592fe44d9c3d994c12865b0",
-              "similar": []
-            }
-          ]
-        },
-        {
-          "image_url": "",
-          "hash_key": "22fb26e71f6e0040b56f48e8b187ec9e",
-          "date_iso": "2013-09-13T13:35:51",
-          "title": "BJP's Modi named Indian PM candidate",
-          "content": "Controversial Indian politician Narendra Modi is named as the prime ministerial candidate of the main opposition party for elections next year.",
-          "date": "3 weeks ago",
-          "score": null,
-          "link": "http://www.bbc.co.uk/news/world-middle-east-24080193#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa",
-          "source": "bbc.co.uk",
-          "keywords": [
-            "politician",
-            "prime minister",
-            "india",
-            "politics of india",
-            "indian people",
-            "politics",
-            "narendra modi"
-          ],
-          "seen": [
-            "af71b0fb9cbbb5037840505a588fb7c9"
-          ],
-          "similar": [
-            {
-              "image_url": "",
-              "hash_key": "af71b0fb9cbbb5037840505a588fb7c9",
-              "date_iso": "2013-09-13T13:06:35",
-              "title": "India's main opposition names Hindu ideologue as candidate for PM post if it wins 2014 polls",
-              "content": "The main opposition Hindu nationalist party has named a controversial Hindu ideologue to be the party's candidate for prime minister if it wins national elections next year.",
-              "date": "3 weeks ago",
-              "score": 0.5506329113924051,
-              "link": "http://feeds.foxnews.com/~r/foxnews/world/~3/9JCA1yeRGGo/",
-              "source": "foxnews.com",
-              "keywords": [
-                "prime minister",
-                "india",
-                "hindu nationalism",
-                "politics",
-                "education",
-                "nationalism"
-              ],
-              "seen": "22fb26e71f6e0040b56f48e8b187ec9e",
-              "similar": []
-            }
-          ]
-        }
-      ],
-      "cat": 5
-    }
+    "articles": [
+      {
+        "image_url": "",
+        "hash_key": "3ed47e2ec2b5e3de5e4a9a5bca579197",
+        "date_iso": "2013-10-04T07:11:29",
+        "title": "Israel PM to Iran: Stop nuclear work",
+        "content": "Prime Minister of Israel Benjamin Netanyahu talks to CNN's Piers Morgan about President Hassan Ruhani of Iran.",
+        "date": "14 hours, 16 minutes ago",
+        "score": null,
+        "link": "http://edition.cnn.com/video/data/2.0/video/bestoftv/2013/10/03/exp-pmt-benjamin-netanyahu-rouhani.cnn.html?eref=edition",
+        "source": "cnn.com",
+        "keywords": [
+          "piers morgan",
+          "iran",
+          "israeli jews",
+          "prime minister",
+          "hassan ruhani",
+          "nuclear work prime minister of israel benjamin netanyahu talks",
+          "islamic republic of iran",
+          "politics",
+          "cnn",
+          "president",
+          "ashkenazi jews",
+          "benjamin netanyahu"
+        ],
+        "seen": [
+          "264e17d8722b15a6ca0d38d617fa1c41"
+        ],
+        "similar": [
+          {
+            "image_url": "",
+            "hash_key": "264e17d8722b15a6ca0d38d617fa1c41",
+            "date_iso": "2013-09-13T14:47:48",
+            "title": "Iran seeks solution to nuclear standoff",
+            "content": "President Rouhani asks for international assurances before compromising on country's nuclear programme.",
+            "date": "3 weeks ago",
+            "score": 0.56,
+            "link": "http://www.aljazeera.com/news/middleeast/2013/09/201391314248171928.html",
+            "source": "aljazeera.com",
+            "keywords": [
+              "iran",
+              "nuclear program of iran",
+              "rouhani",
+              "environment",
+              "nuclear proliferation",
+              "politics",
+              "president",
+              "international relations"
+            ],
+            "seen": "3ed47e2ec2b5e3de5e4a9a5bca579197",
+            "similar": []
+          }
+        ]
+      },
+      {
+        "image_url": "",
+        "hash_key": "3d2d39af540ca522b8e560216140c683",
+        "date_iso": "2013-10-04T02:22:25",
+        "title": "U.S. shuts down; insults shoot up",
+        "content": "We call out the top name-callers in the government shutdown. CNN's Jeanne Moos asks \"Who are you calling Honey Boo Boo?\"",
+        "date": "19 hours, 5 minutes ago",
+        "score": null,
+        "link": "http://edition.cnn.com/video/data/2.0/video/us/2013/10/03/tsr-moos-shutdown-name-calling.cnn.html?eref=edition",
+        "source": "cnn.com",
+        "keywords": [
+          "united states",
+          "yogi bear",
+          "honey boo boo",
+          "jeanne moos",
+          "boo",
+          "cnn",
+          "politics",
+          "news media"
+        ],
+        "seen": [
+          "5ae55f7ccf989dad7477a3204c60eee8"
+        ],
+        "similar": [
+          {
+            "image_url": "",
+            "hash_key": "5ae55f7ccf989dad7477a3204c60eee8",
+            "date_iso": "2013-10-03T06:53:33",
+            "title": "U.S. shutdown: Victory for extremism",
+            "content": "Ellen Fitzpatrick and Theda Skocpol say the government shutdown is an unprecedented move by a political minority trying to dismantle one of the most significant legislative achievements in recent American history, one that is the law.",
+            "date": "1 day, 14 hours ago",
+            "score": 0.5507246376811594,
+            "link": "http://edition.cnn.com/2013/10/02/opinion/fitzpatrick-skocpol-shutdown-extremism/index.html?eref=edition",
+            "source": "cnn.com",
+            "keywords": [
+              "ellen fitzpatrick",
+              "united states",
+              "social issues",
+              "education in the united states",
+              "government shutdown",
+              "theda skocpol",
+              "politics"
+            ],
+            "seen": "3d2d39af540ca522b8e560216140c683",
+            "similar": []
+          }
+        ]
+      },
+      {
+        "image_url": "",
+        "hash_key": "dd2e1d3e381d1ec376d6757c333f68dd",
+        "date_iso": "2013-09-13T14:26:44",
+        "title": "'Largest storm that I can imagine' wears on in Colo.; National Guard to rescue",
+        "content": "The governor of Colorado on Friday ordered the National Guard into a town outside Boulder in hopes of evacuating hundreds of people feared stranded by floods that were ravaging the state for a third day.",
+        "date": "3 weeks ago",
+        "score": null,
+        "link": "http://feeds.nbcnews.com/c/35002/f/663306/s/3131401c/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4694490Elargest0Estorm0Ethat0Ei0Ecan0Eimagine0Ewears0Eon0Ein0Ecolo0Enational0Eguard0Eto0Erescue0Dlite/story01.htm",
+        "source": "nbcnews.com",
+        "keywords": [
+          "colorado",
+          "national guard",
+          "united states air national guard",
+          "governor",
+          "national guard of the united states",
+          "environment",
+          "disaster_accident",
+          "weather",
+          "united states army national guard"
+        ],
+        "seen": [
+          "dd2e1d3e381d1ec376d6757c333f68dd"
+        ],
+        "similar": [
+          {
+            "image_url": "",
+            "hash_key": "dd2e1d3e381d1ec376d6757c333f68dd",
+            "date_iso": "2013-09-13T14:23:34",
+            "title": "'Largest storm that I can imagine' wears on in Colo.; National Guard to rescue",
+            "content": "The governor of Colorado on Friday ordered the National Guard into a town outside Boulder in hopes of evacuating hundreds of people feared stranded by floods that were ravaging the state for a third day.",
+            "date": "3 weeks ago",
+            "score": 1.0,
+            "link": "http://feeds.nbcnews.com/c/35002/f/663303/s/3131a970/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4694490Elargest0Estorm0Ethat0Ei0Ecan0Eimagine0Ewears0Eon0Ein0Ecolo0Enational0Eguard0Eto0Erescue0Dlite/story01.htm",
+            "source": "nbcnews.com",
+            "keywords": [
+              "colorado",
+              "national guard",
+              "united states air national guard",
+              "governor",
+              "national guard of the united states",
+              "environment",
+              "disaster_accident",
+              "weather",
+              "united states army national guard"
+            ],
+            "seen": "dd2e1d3e381d1ec376d6757c333f68dd",
+            "similar": []
+          }
+        ]
+      },
+      {
+        "image_url": "",
+        "hash_key": "6061411a0592fe44d9c3d994c12865b0",
+        "date_iso": "2013-09-13T13:53:57",
+        "title": "'The perfect storm': Massive boardwalk fire smolders in Sandy-ravaged shoretowns",
+        "content": "The raging boardwalk fire that turned six blocks of New Jersey shoreline attractions into embers on Thursday evening still smoldered the next morning, and authorities began to look for a cause for the blaze that dealt a heavy blow to an area just beginning to recover from Hurricane Sandy.",
+        "date": "3 weeks ago",
+        "score": null,
+        "link": "http://feeds.nbcnews.com/c/35002/f/663303/s/31310621/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4758760Ethe0Eperfect0Estorm0Emassive0Eboardwalk0Efire0Esmolders0Ein0Esandy0Eravaged0Eshoretowns0Dlite/story01.htm",
+        "source": "nbcnews.com",
+        "keywords": [
+          "new jersey",
+          "disaster_accident",
+          "geography of new jersey",
+          "weather",
+          "the perfect storm",
+          "transport"
+        ],
+        "seen": [
+          "6061411a0592fe44d9c3d994c12865b0"
+        ],
+        "similar": [
+          {
+            "image_url": "",
+            "hash_key": "6061411a0592fe44d9c3d994c12865b0",
+            "date_iso": "2013-09-13T13:39:12",
+            "title": "'The perfect storm': Massive boardwalk fire smolders in Sandy-ravaged shoretowns",
+            "content": "The raging boardwalk fire that turned six blocks of New Jersey shoreline attractions into embers on Thursday evening still smoldered the next morning, and authorities began to look for a cause for the blaze that dealt a heavy blow to an area just beginning to recover from Hurricane Sandy.",
+            "date": "3 weeks ago",
+            "score": 1.0,
+            "link": "http://feeds.nbcnews.com/c/35002/f/663306/s/313112c5/l/0Lusnews0Bnbcnews0N0C0Inews0C20A130C0A90C130C20A4758760Ethe0Eperfect0Estorm0Emassive0Eboardwalk0Efire0Esmolders0Ein0Esandy0Eravaged0Eshoretowns0Dlite/story01.htm",
+            "source": "nbcnews.com",
+            "keywords": [
+              "new jersey",
+              "disaster_accident",
+              "geography of new jersey",
+              "weather",
+              "the perfect storm",
+              "transport"
+            ],
+            "seen": "6061411a0592fe44d9c3d994c12865b0",
+            "similar": []
+          }
+        ]
+      },
+      {
+        "image_url": "",
+        "hash_key": "22fb26e71f6e0040b56f48e8b187ec9e",
+        "date_iso": "2013-09-13T13:35:51",
+        "title": "BJP's Modi named Indian PM candidate",
+        "content": "Controversial Indian politician Narendra Modi is named as the prime ministerial candidate of the main opposition party for elections next year.",
+        "date": "3 weeks ago",
+        "score": null,
+        "link": "http://www.bbc.co.uk/news/world-middle-east-24080193#sa-ns_mchannel=rss&ns_source=PublicRSS20-sa",
+        "source": "bbc.co.uk",
+        "keywords": [
+          "politician",
+          "prime minister",
+          "india",
+          "politics of india",
+          "indian people",
+          "politics",
+          "narendra modi"
+        ],
+        "seen": [
+          "af71b0fb9cbbb5037840505a588fb7c9"
+        ],
+        "similar": [
+          {
+            "image_url": "",
+            "hash_key": "af71b0fb9cbbb5037840505a588fb7c9",
+            "date_iso": "2013-09-13T13:06:35",
+            "title": "India's main opposition names Hindu ideologue as candidate for PM post if it wins 2014 polls",
+            "content": "The main opposition Hindu nationalist party has named a controversial Hindu ideologue to be the party's candidate for prime minister if it wins national elections next year.",
+            "date": "3 weeks ago",
+            "score": 0.5506329113924051,
+            "link": "http://feeds.foxnews.com/~r/foxnews/world/~3/9JCA1yeRGGo/",
+            "source": "foxnews.com",
+            "keywords": [
+              "prime minister",
+              "india",
+              "hindu nationalism",
+              "politics",
+              "education",
+              "nationalism"
+            ],
+            "seen": "22fb26e71f6e0040b56f48e8b187ec9e",
+            "similar": []
+          }
+        ]
+      }
+    ],
+    "cat": 5
   }
 }

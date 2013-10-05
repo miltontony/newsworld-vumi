@@ -48,7 +48,7 @@ describe("When using newsworld", function() {
             user: null,
             content: null,
             next_state: "welcome_state",
-            response: "^Welcome to NewsWorld! What to read\\?[^]"+
+            response: "^Welcome to NewsWorld![^]"+
                       "1. Local News[^]"+
                       "2. World News$"
         });
@@ -64,7 +64,7 @@ describe("When using newsworld", function() {
             content: "1",
             next_state: "news_index_state",
             response: (
-                "^local news[^]" +
+                "^Local news[^]" +
                 "1. SARS crime bust - 4 arr..[^]"+
                 "2. Lungisa's arrest welcom..[^]"+
                 "3. Bail for formey NYDA ch..[^]"+
@@ -80,7 +80,7 @@ describe("When using newsworld", function() {
         var user = {
             current_state: 'news_index_state',
             answers: {
-                welcome_state: 'local',
+                welcome_state: 'Local',
                 news_index_state: 'a2406f291ef51a79036548eaaa306f06'
             }
         };
@@ -108,7 +108,7 @@ describe("When using newsworld", function() {
             content: "2",
             next_state: "news_index_state",
             response: (
-                "^world news[^]"+
+                "^World news[^]"+
                 "1. Israel PM to Iran: Stop..[^]"+
                 "2. U.S. shuts down; insult..[^]"+
                 "3. 'Largest storm that I c..[^]"+
@@ -124,7 +124,7 @@ describe("When using newsworld", function() {
         var user = {
             current_state: 'news_index_state',
             answers: {
-                welcome_state: 'international',
+                welcome_state: 'World',
                 news_index_state: '3ed47e2ec2b5e3de5e4a9a5bca579197'
             }
         };
@@ -147,7 +147,7 @@ describe("When using newsworld", function() {
         var user = {
             current_state: 'news_detail_state',
             answers: {
-                welcome_state: 'local',
+                welcome_state: 'Local',
                 news_index_state: 'a2406f291ef51a79036548eaaa306f06',
                 news_detail_state: 'more'
             }
@@ -166,7 +166,7 @@ describe("When using newsworld", function() {
         var user = {
             current_state: 'news_detail_state',
             answers: {
-                welcome_state: 'local',
+                welcome_state: 'Local',
                 news_index_state: 'a2406f291ef51a79036548eaaa306f06',
                 news_detail_state: 'more'
             }

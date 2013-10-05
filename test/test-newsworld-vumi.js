@@ -64,7 +64,7 @@ describe("When using newsworld", function() {
             content: "1",
             next_state: "news_index_state",
             response: (
-                "^Local news[^]" +
+                "^Local News[^]" +
                 "1. SARS crime bust - 4 arr..[^]"+
                 "2. Lungisa's arrest welcom..[^]"+
                 "3. Bail for formey NYDA ch..[^]"+
@@ -108,7 +108,7 @@ describe("When using newsworld", function() {
             content: "2",
             next_state: "news_index_state",
             response: (
-                "^World news[^]"+
+                "^World News[^]"+
                 "1. Israel PM to Iran: Stop..[^]"+
                 "2. U.S. shuts down; insult..[^]"+
                 "3. 'Largest storm that I c..[^]"+

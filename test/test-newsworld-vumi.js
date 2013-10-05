@@ -38,7 +38,8 @@ describe("When using newsworld", function() {
                 api.load_http_fixture(f);
             });
         },
-        async: true
+        async: true,
+        max_response_length: 160
     });
 
     // first test should always start 'null, null' because we haven't
@@ -65,11 +66,11 @@ describe("When using newsworld", function() {
             next_state: "news_index_state",
             response: (
                 "^Local News[^]" +
-                "1. SARS crime bust - 4 arr..[^]"+
-                "2. Lungisa's arrest welcom..[^]"+
-                "3. Bail for formey NYDA ch..[^]"+
-                "4. Zuma: Happy grandparent..[^]"+
-                "5. Another stabbing at Fre..[^]"+
+                "1. SARS crime bust - 4 ..[^]"+
+                "2. Lungisa's arrest wel..[^]"+
+                "3. Bail for formey NYDA..[^]"+
+                "4. Zuma: Happy grandpar..[^]"+
+                "5. Another stabbing at ..[^]"+
                 "6. Back$"
             )
         });
@@ -91,7 +92,7 @@ describe("When using newsworld", function() {
             response: (
                 "Lungisa's arrest welcomed: Arts and Culture Minister "+
                 "Paul Mashatile welcomed the arrest of former National "+
-                "Youth Development Agency \\(NYDA\\)..[^]"+
+                "Youth Development Agency \\(NYD..[^]"+
                 "1. Read more\\?[^]"+
                 "2. Quit$"
             ),
@@ -109,11 +110,11 @@ describe("When using newsworld", function() {
             next_state: "news_index_state",
             response: (
                 "^World News[^]"+
-                "1. Israel PM to Iran: Stop..[^]"+
-                "2. U.S. shuts down; insult..[^]"+
-                "3. 'Largest storm that I c..[^]"+
-                "4. 'The perfect storm': Ma..[^]"+
-                "5. BJP's Modi named Indian..[^]"+
+                "1. Israel PM to Iran: S..[^]"+
+                "2. U.S. shuts down; ins..[^]"+
+                "3. 'Largest storm that ..[^]"+
+                "4. 'The perfect storm':..[^]"+
+                "5. BJP's Modi named Ind..[^]"+
                 "6. Back$"
             )
         });
@@ -135,7 +136,7 @@ describe("When using newsworld", function() {
             response: (
                 "Israel PM to Iran: Stop nuclear work: Prime Minister of Israel "+
                 "Benjamin Netanyahu talks to CNN's Piers Morgan about "+
-                "President Hassan Ruhan..[^]"+
+                "President Hassan Ruh..[^]"+
                 "1. Read more\\?[^]"+
                 "2. Quit$"
             ),

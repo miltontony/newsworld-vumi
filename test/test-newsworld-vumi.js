@@ -66,12 +66,11 @@ describe("When using newsworld", function() {
             next_state: "news_index_state",
             response: (
                 "^Local News[^]" +
-                "1. SARS crime bust - 4 ..[^]"+
-                "2. Lungisa's arrest wel..[^]"+
-                "3. Bail for formey NYDA..[^]"+
-                "4. Zuma: Happy grandpar..[^]"+
-                "5. Another stabbing at ..[^]"+
-                "6. Back$"
+                "1. SARS crime bust - 4 arrested[^]"+
+                "2. Lungisa's arrest welcomed[^]"+
+                "3. Bail for formey NYDA chair[^]"+
+                "4. View more[^]"+
+                "5. Home$"
             )
         });
         p.then(done, done);
@@ -110,12 +109,11 @@ describe("When using newsworld", function() {
             next_state: "news_index_state",
             response: (
                 "^World News[^]"+
-                "1. Israel PM to Iran: S..[^]"+
-                "2. U.S. shuts down; ins..[^]"+
-                "3. 'Largest storm that ..[^]"+
-                "4. 'The perfect storm':..[^]"+
-                "5. BJP's Modi named Ind..[^]"+
-                "6. Back$"
+                "1. Israel PM to Iran: Stop nuclear work[^]"+
+                "2. U.S. shuts down; insults shoot up[^]"+
+                "3. 'Largest storm that I can imagine' wears on i...[^]"+
+                "4. View more[^]"+
+                "5. Home$"
             )
         });
         p.then(done, done);

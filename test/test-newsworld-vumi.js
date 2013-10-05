@@ -32,7 +32,7 @@ describe("When using newsworld", function() {
     var tester = new vumigo.test_utils.ImTester(app.api, {
         custom_setup: function (api) {
             api.config_store.config = JSON.stringify({
-                //user_store: "go_skeleton"
+                sms_tag: ["sms", "response_text"]
             });
             fixtures.forEach(function (f) {
                 api.load_http_fixture(f);
@@ -41,6 +41,16 @@ describe("When using newsworld", function() {
         async: true,
         max_response_length: 160
     });
+
+    var assert_single_sms = function(to_addr, content) {
+        var teardown = function(api) {
+            var sms = api.outbound_sends[0];
+            assert.equal(api.outbound_sends.length, 1);
+            assert.equal(sms.to_addr, to_addr);
+            assert.equal(sms.content, content);
+        };
+        return teardown;
+    };
 
     // first test should always start 'null, null' because we haven't
     // started interacting yet
@@ -156,7 +166,13 @@ describe("When using newsworld", function() {
             content: "1",
             next_state: "news_more_state",
             response: ("^Thank you! An sms will be sent to you!$"),
-            continue_session: false
+            continue_session: false,
+            teardown: assert_single_sms("1234567", "Lungisa's arrest welcomed\n"+
+                "Arts and Culture Minister Paul Mashatile welcomed the arrest"+
+                " of former National Youth Development Agency (NYDA)"+
+                " head Andile Lungisa and three other pe\n"+
+                "http://www.thenewage.co.za/Detail.aspx?news_id=108637&cat_id=1007\n"+
+                "2 hours, 20 minutes ago")
         });
         p.then(done, done);
     });
